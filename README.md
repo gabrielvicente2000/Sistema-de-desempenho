@@ -8,5 +8,4 @@ O design das telas do sistema foi desenvolvido no Figma e pode ser acessado no l
 
 👉 [Acesse o protótipo aqui](https://www.figma.com/design/nm9GJIzRYwBD4g1I3jRtmf/Figma-tela-App-funcionario?node-id=27-2&p=f&t=jL5h8mj7oLb4vNZq-0)
 
-### 📸 Preview
-![Preview do protótipo](img/prototipo.png)
+
